@@ -1,0 +1,122 @@
+[
+  {
+    "name": "audio_file_1.dat",
+    "type": "audio",
+    "owner": "userE",
+    "size": 673420
+  },
+  {
+    "name": "video_file_2.dat",
+    "type": "video",
+    "owner": "userE",
+    "size": 39810971
+  },
+  {
+    "name": "audio_file_3.dat",
+    "type": "audio",
+    "owner": "userC",
+    "size": 31879603
+  },
+  {
+    "name": "image_file_4.dat",
+    "type": "image",
+    "owner": "userA",
+    "size": 31495281
+  },
+  {
+    "name": "video_file_5.dat",
+    "type": "video",
+    "owner": "userA",
+    "size": 10562947
+  },
+  {
+    "name": "image_file_6.dat",
+    "type": "image",
+    "owner": "userC",
+    "size": 36425970
+  },
+  {
+    "name": "audio_file_7.dat",
+    "type": "audio",
+    "owner": "userD",
+    "size": 215473
+  },
+  {
+    "name": "image_file_8.dat",
+    "type": "image",
+    "owner": "userE",
+    "size": 46270692
+  },
+  {
+    "name": "audio_file_9.dat",
+    "type": "audio",
+    "owner": "userE",
+    "size": 33578066
+  },
+  {
+    "name": "audio_file_10.dat",
+    "type": "audio",
+    "owner": "userD",
+    "size": 6529558
+  },
+  {
+    "name": "image_file_11.dat",
+    "type": "image",
+    "owner": "userE",
+    "size": 10181322
+  },
+  {
+    "name": "video_file_12.dat",
+    "type": "video",
+    "owner": "userC",
+    "size": 11512033
+  },
+  {
+    "name": "image_file_13.dat",
+    "type": "image",
+    "owner": "userA",
+    "size": 26202282
+  },
+  {
+    "name": "image_file_14.dat",
+    "type": "image",
+    "owner": "userC",
+    "size": 31357102
+  },
+  {
+    "name": "text_file_15.dat",
+    "type": "text",
+    "owner": "userC",
+    "size": 15050972
+  },
+  {
+    "name": "video_file_16.dat",
+    "type": "video",
+    "owner": "userC",
+    "size": 15834969
+  },
+  {
+    "name": "text_file_17.dat",
+    "type": "text",
+    "owner": "userB",
+    "size": 6113019
+  },
+  {
+    "name": "video_file_18.dat",
+    "type": "video",
+    "owner": "userD",
+    "size": 24349529
+  },
+  {
+    "name": "video_file_19.dat",
+    "type": "video",
+    "owner": "userE",
+    "size": 24887166
+  },
+  {
+    "name": "text_file_20.dat",
+    "type": "text",
+    "owner": "userA",
+    "size": 19933249
+  }
+]

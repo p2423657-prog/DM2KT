@@ -1,0 +1,110 @@
+{
+ 
+  "Paris":{
+    "Shenzhen":252.128,
+    "Shanghai": 218.710,
+    "Hong Kong":177.073,
+    "Amsterdam":23.185,
+    "Dallas":108.3,
+    "Moscow":51.659,
+    "New York":77.418,
+    "Seoul":283.56,
+    "Taipei":250.385
+  },
+
+  "Amsterdam":{
+    "Shenzhen": 190.134,
+    "Shanghai": 173.580,
+    "Hong Kong": 196.788,
+    "Paris":23.187,
+    "Dallas":113.322,
+    "Moscow":55.041,
+    "New York":77.238,
+    "Seoul":213.761,
+    "Taipei":264.584    
+  },
+
+  "Shenzhen": {
+    "Paris":250.417,
+    "Amsterdam":190.523,
+    "Shanghai": 26.221,
+    "Hong Kong":330.36,
+    "Dallas":253.434,
+    "Moscow":190.423,
+    "New York":240.082,
+    "Seoul":215.527,
+    "Taipei":50.292
+  },
+
+  "Hong Kong":{
+     "Paris":176.855,
+     "Amsterdam":196.975,
+     "Shenzhen": 324.903,
+     "Shanghai": 303.920,
+     "Dallas":186.855,
+     "Moscow":221.531,
+     "New York":206.388,
+     "Seoul":81.463,
+     "Taipei":27.386
+  },
+
+  "Dallas":{
+    "Amsterdam":113.534,
+    "Paris":108.3,
+    "Shanghai":240.129,
+    "Shenzhen":254.579,
+    "Hong Kong":179.086,   
+    "Moscow":158.618,
+    "New York":38.771,
+    "Seoul":181.054,
+    "Taipei":166.774
+  },
+
+  "Moscow":{
+    "Amsterdam":55.09,
+    "Paris":51.659,
+    "Shanghai":225.559,
+    "Shenzhen":240.15,  
+    "Hong Kong": 223.122,
+    "Dallas":156.411,
+    "New York":120.438,
+    "Seoul":377.053,
+    "Taipei":271.835
+  },
+
+  "New York":{
+    "Amsterdam":77.248,
+    "Paris":77.418,
+    "Shanghai":222.287,
+    "Shenzhen":240.165, 
+    "Hong Kong":206.354,
+    "Moscow":120.438,
+    "Dallas":39.736,
+    "Seoul":201.685,
+    "Taipei":194.816 
+  },
+
+  "Seoul":{
+    "Amsterdam":213.565,
+    "Hong Kong":82.463,
+    "Moscow":379.99,
+    "Shanghai":191.89,
+    "Paris":283.56,
+    "Shenzhen":216.483,  
+    "Dallas":181.997,
+    "New York":201.791,
+    "Taipei":68.01
+  },
+
+  "Taipei":{
+    "Amsterdam":265.903,
+    "Hong Kong":22.738,
+    "New York":196.301,
+    "Moscow":267.326,
+    "Seoul":65.03,
+    "Shanghai":20.656, 
+    "Paris":250.385,
+    "Dallas":166.861,
+    "Shenzhen":50.308
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "iccce.dat",
+    "type": "image",
+    "owner": "",
+    "size": 85,
+    "file_id": 398522907342,
+    "locations": {
+      "PrimaryNodeID": 596653303252,
+      "BackupNodeID": 2481221354486,
+      "CrossNodeID": 492242123535,
+      "OriginalPrimaryID": 0
+    }
+  }
+]

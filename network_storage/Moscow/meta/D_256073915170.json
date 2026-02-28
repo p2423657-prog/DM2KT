@@ -1,0 +1,15 @@
+[
+  {
+    "name": "img-file.dat",
+    "type": "image",
+    "owner": "",
+    "size": 85,
+    "file_id": 2647564076543,
+    "locations": {
+      "PrimaryNodeID": 6021193936627,
+      "BackupNodeID": 6104102324866,
+      "CrossNodeID": 6486309023696,
+      "OriginalPrimaryID": 0
+    }
+  }
+]
