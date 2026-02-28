@@ -14,6 +14,6 @@ The comparative experiments with IPFS were conducted by deploying IPFS nodes via
 
 The DM2KT system provides exposed API interfaces and can be executed directly by running the corresponding Go file. The related experimental modules are integrated within the same Go implementation. Specific testing procedures can be examined through the associated command-line instructions.
 
-After successfully launching the system, users can upload files using the `upload` command. The system will automatically determine the appropriate storage nodes based on its allocation strategy and return detailed storage metadata to the user.
+After successfully launching the system, users can upload files using the upload command. The system will automatically determine the appropriate storage nodes based on its allocation strategy and return detailed storage metadata to the user.
 
-To conduct the three predefined experimental evaluations, users may invoke `experiment 1`, `experiment 2`, or `experiment 3` respectively. The system will then activate the corresponding experimental workflow and provide the relevant command-line prompts for execution.
+To conduct the three predefined experimental evaluations, users may invoke experiment 1, experiment 2, or experiment 3 respectively. The system will then activate the corresponding experimental workflow and provide the relevant command-line prompts for execution.
